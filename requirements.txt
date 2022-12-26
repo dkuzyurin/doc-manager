@@ -1,0 +1,17 @@
+numpy==1.24.0
+pandas==1.5.2
+streamlit==1.16.0
+streamlit-aggrit==0.3.3
+streamlit_option_menu==0.3.2
+jupyter
+tqdm==4.64.1
+scikit-learn==1.2.0
+seaborn==0.12.1
+jupyterthemes==0.20.0
+tika==1.24
+googletrans==3.0.0
+torch==1.13.1
+IPython==8.7.0
+matplotlib==3.6.2
+transformers==4.25.1
+scipy==1.9.3
